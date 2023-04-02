@@ -1,0 +1,38 @@
+{
+  "name": "engineering_project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@mdi/js": "^7.2.96",
+    "axios": "^1.3.4",
+    "bootstrap-icons": "^1.10.3",
+    "bootstrap-vue": "^2.23.1",
+    "core-js": "^3.8.3",
+    "vue": "^2.6.14",
+    "vue-pdf": "^4.3.0",
+    "vue-pdf-embed": "^1.1.5",
+    "vue-router": "^3.5.1",
+    "vuetify": "^2.6.0",
+    "vuetify-pdfjs": "^1.2.6"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "vue-template-compiler": "^2.6.14",
+    "vuetify-loader": "^1.7.0",
+    "worker-loader": "^3.0.8"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
